@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Reflection about Numpy</title>
+    <title>Reflection about NumPy</title>
     <url>/2020/03/18/Reflection-about-Numpy/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>After finishing the study of Python language, I started the research of data analysis which is the study of NumPy. Data analysis refers to the use of appropriate statistical analysis methods to analyze a large number of collected data, summarize and understand them, and play the role of data. Because of the large and complex amount of data in our reality, it is very difficult to find out the heterogeneity of these data by our human brain. However, NumPy can help us transform these images into arrays or other forms to present images.</p>
+<p>Example one:</p>
+]]></content>
   </entry>
   <entry>
     <title>POEM 2 REVISING</title>
