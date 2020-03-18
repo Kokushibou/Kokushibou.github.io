@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Reflection about NumPy</title>
+    <title>Reflection about NumPhy</title>
     <url>/2020/03/18/Reflection-about-Numpy/</url>
     <content><![CDATA[<p>After finishing the study of Python language, I started the research of data analysis which is the study of NumPy. Data analysis refers to the use of appropriate statistical analysis methods to analyze a large number of collected data, summarize and understand them, and play the role of data. Because of the large and complex amount of data in our reality, it is very difficult to find out the heterogeneity of these data by our human brain. However, NumPy can help us transform these images into arrays or other forms to present images.</p>
 <p>Example one:</p>
+<p>This histogram is that we let the computer generate 100 random numbers and then count the number of data distributed in each interval.  This histogram can clearly show the maximum and minimum values of the whole array.</p>
+<p><a href="https://imgchr.com/i/8DPKc6" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/18/8DPKc6.md.png" alt="8DPKc6.md.png"></a></p>
+<p>Example two:</p>
+<p>Let’s take a look at a real-life example. This is a histogram of the height of the president of the United States. Here, we use commands in NumPy to extract the data about the height of the president. When we put all the data in a matrix, it becomes the same as the last example.  We can also do all the operations we want, such as the average value or the maximum and minimum value, when we analyze it according to the chart.</p>
+<p><a href="https://imgchr.com/i/8DETpj" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/18/8DETpj.md.png" alt="8DETpj.md.png"></a></p>
+<p>In the process of learning data analysis, I also encountered many difficulties. The most important problem is that I can’t understand the meaning of some codes. All I have to do is to type the codes in the book mechanically. Although I have studied and looked up these strange and complicated codes after class, there are still some unclear codes. So I will study the other functions of python that we didn’t involve  in class to solve questions.</p>
 ]]></content>
   </entry>
   <entry>
